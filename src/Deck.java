@@ -1,5 +1,6 @@
 import java.util.Random;
 
+// Factory method with hard coded hands that was tailored for the thesis
 public class Deck {
 	Card[] cards = new Card[53];
 	Deck(){
